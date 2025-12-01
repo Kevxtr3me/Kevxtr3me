@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Kevin
 
 <!--
-**Kevxtr3me/Kevxtr3me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on PC hardware, custom builds, and system optimization. My work centers around clean execution, reliable diagnostics, and practical solutions.
 
-Here are some ideas to get you started:
+🛠️ Custom PC Builder
+🔧 PC & Hardware Repair
+⚙️ System & Hardware Optimization | Tool Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 What I work on
+Building and maintaining custom PC systems
+Hardware diagnostics and repair
+Performance tuning and system stability
+Creating small tools and scripts to streamline workflows
+
+I enjoy building custom systems, optimizing performance, and solving complex technical issues.
+I create small tools and projects that make hardware workflows more efficient and easier to manage.
